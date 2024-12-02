@@ -26,6 +26,9 @@ This Power BI project analyzes a survey of 630 data professionals to uncover ins
 - **Happiness Metrics**:
   - **Happiness with Salary**: Average rating of 4.27/10.
   - **Happiness with Work-Life Balance**: Average rating of 5.74/10.
+    
+![DataProf_survey](/PowerBi Project.png "Power BI Dashboard Overview")
+
 
 ## Features
 
