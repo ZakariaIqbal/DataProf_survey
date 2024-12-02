@@ -51,9 +51,7 @@ This Power BI project analyzes a survey of 630 data professionals to uncover ins
 - Add more granular filters (e.g., by age group, gender, or industry).
 - Incorporate external data sources for benchmarking.
 
-## License
 
-This project is for educational and demonstration purposes. Contact me for collaboration or further use cases.
 
 ---
 Feel free to let me know if you'd like additional modifications or further details!
